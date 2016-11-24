@@ -69,11 +69,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainController.cs" />
-    <Compile Include="Assets\NPCSetupManager.cs" />
-    <Compile Include="Assets\Rotate.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
     <Compile Include="Assets\Scripts\Follower.cs" />
+    <Compile Include="Assets\Scripts\MainController.cs" />
+    <Compile Include="Assets\Scripts\NPCSetupManager.cs" />
+    <Compile Include="Assets\Scripts\Rotate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
